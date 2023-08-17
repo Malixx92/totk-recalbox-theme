@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<iconColor>FFFFFF</iconColor>
+			<iconUpDown>./../arts/snes/updown.svg</iconUpDown>
+			<iconLeftRight>./../arts/snes/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./../arts/snes/all.svg</iconUpDownLeftRight>
+			<iconA>./../arts/snes/a.svg</iconA>
+			<iconB>./../arts/snes/b.svg</iconB>
+			<iconX>./../arts/snes/x.svg</iconX>
+			<iconY>./../arts/snes/y.svg</iconY>
+			<iconL>./../arts/snes/l.svg</iconL>
+			<iconR>./../arts/snes/r.svg</iconR>
+			<iconStart>./../arts/snes/start.svg</iconStart>
+			<iconSelect>./../arts/snes/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

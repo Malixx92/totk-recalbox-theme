@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./../arts/psx/updown.svg</iconUpDown>
+			<iconLeftRight>./../arts/psx/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./../arts/psx/all.svg</iconUpDownLeftRight>
+			<iconA>./../arts/psx/a.svg</iconA>
+			<iconB>./../arts/psx/b.svg</iconB>
+			<iconX>./../arts/psx/x.svg</iconX>
+			<iconY>./../arts/psx/y.svg</iconY>
+			<iconL>./../arts/psx/l.svg</iconL>
+			<iconR>./../arts/psx/r.svg</iconR>
+			<iconStart>./../arts/psx/start.svg</iconStart>
+			<iconSelect>./../arts/psx/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>

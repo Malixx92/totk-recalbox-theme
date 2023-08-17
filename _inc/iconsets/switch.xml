@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu, system, basic, detailed, gameclip">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./../arts/snesalt/updown.svg</iconUpDown>
+			<iconLeftRight>./../arts/snesalt/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./../arts/snesalt/all.svg</iconUpDownLeftRight>
+			<iconA>./../arts/snesalt/a.svg</iconA>
+			<iconB>./../arts/snesalt/b.svg</iconB>
+			<iconX>./../arts/snesalt/x.svg</iconX>
+			<iconY>./../arts/snesalt/y.svg</iconY>
+			<iconL>./../arts/snesalt/l.svg</iconL>
+			<iconR>./../arts/snesalt/r.svg</iconR>
+			<iconStart>./../arts/snesalt/start.svg</iconStart>
+			<iconSelect>./../arts/snesalt/select.svg</iconSelect>
+		</helpsystem>		
+	</view>
+	
+</theme>
